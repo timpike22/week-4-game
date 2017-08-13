@@ -1,0 +1,35 @@
+.container{
+	
+	width: 80%;
+	font-family: verdana, helvetica, arial;
+
+
+}
+
+.header{
+	height: 100px;
+	padding-top: 30px;
+	width: 80%;
+	background: purple;
+	font-size: 150px;
+	text-align: center;
+}
+
+.main-section{
+	padding: 25px;
+
+	font-size: 18px;
+	background: gray;
+	text-align: left;
+	width: 80%;
+}
+
+.crystals {
+	height: 150;
+	float: right;
+	padding-left: 220px;
+	}
+
+body {
+	background-color: black;
+}
